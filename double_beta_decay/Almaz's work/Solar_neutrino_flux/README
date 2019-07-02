@@ -1,0 +1,20 @@
+Neutrino fluxes shapes taken from John Bahcall site: 
+http://www.sns.ias.edu/~jnb/SNdata/
+http://www.sns.ias.edu/~jnb/SNdata/sndata.html#bs2005
+
+BS05OP model: J. N. Bahcall, A. M. Serenelli, and S. Basu, Astrophys. J. Lett. 621, L85 (2005).
+
+BS05OP_Be = 4.84e9
+BS05OP_pp = 5.99e10
+BS05OP_pep = 1.42e8
+BS05OP_hep = 7.93e3
+BS05OP_B = 5.69e6
+BS05OP_N = 3.07e8
+BS05OP_0 = 2.33e8
+BS05OP_F = 5.84e6
+
+pep_en=1.442 #MeV
+Be384_en = 0.384 #Mev
+Be862_en = 0.862 #Mev
+
+Be384 : Be862 = 0.103 : 0.897 #Бакал, Нейтринная астрофизика, стр. 171
